@@ -9,12 +9,11 @@ default current_location = ""
 #day cycle
 default s = '2023/03/01'
 default day = datetime.strptime(s, "%Y/%m/%d")
-default time_of_day_default = ["morning", "noon", "evening"]
-default time_of_day = time_of_day_default #edit this list to rename, add or delete time of days
+default time_of_day = ["morning", "noon", "evening"] #edit this list to rename, add or delete time of days
 default end_of_day = time_of_day[-1] # this can automatically pick up the last element of time_of_day as above, remove above line if you want to use this.
 
 #week cycle
-default week_days = ["Modnay", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+default week_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 default end_of_week_days = week_days[-1]
 
 #call advance() # advances time by 1 unit

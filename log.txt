@@ -1,11 +1,11 @@
-Tue Mar  7 22:47:18 2023
+Tue Mar  7 22:53:44 2023
 Windows-10-10.0.22621
 Ren'Py 8.0.3.22090809
  
 
 Bootstrap to the start of init.init took 0.02s
 Early init took 0.00s
-Loader init took 0.01s
+Loader init took 0.02s
 Loading error handling took 0.01s
 Loading script took 0.06s
 Loading save slot metadata. took 0.01s
@@ -32,7 +32,7 @@ Analyze screens took 0.00s
 Save screen analysis took 0.01s
 Prepare screens took 0.02s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
+Save bytecode. took 0.02s
 Running _start took 0.00s
 Performance test:
 Interface start took 0.04s

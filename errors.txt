@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens_shared.rpy", line 28: expected menuitem
+    if (time_of_day[0] == end_of_day):
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Tue Mar  7 22:38:24 2023

@@ -20,7 +20,7 @@ screen main_HUD_time_of_day_bar:
         xpos 0.9 ypos 0
         xsize 50
         imagebutton:
-            idle "shared/door_1.png"
+            idle "shared/door_1_unhovered.png"
             action Jump("shared_advance_TimeOfDay")
 
 label shared_advance_TimeOfDay:
